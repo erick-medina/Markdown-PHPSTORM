@@ -10,7 +10,7 @@
 | Gender | Masculine |
 | Favorite color | Black |
 | Favorite food | Pizza |
-| Pineapple on pizza |  [x] |
+| Pineapple on pizza |  ☑  |
 
 ##### Hobbies ✈ 😁
 * Listening to music 🎵
@@ -28,4 +28,4 @@
 ###### TL;DR
 Don't trust Google Maps! 😹
 
-[<< previous](https://www.google.com) || Erick Medina || [next>>](https://www.google.com)
+[<< previous](https://github.com/Emma-Belg/silver/blob/master/readme-Emma.md) || Erick Medina || [next>>](https://github.com/bennami/Markdown1/blob/master/README.md)
